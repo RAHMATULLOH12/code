@@ -1,0 +1,35 @@
+.mother {
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+
+.ss {
+    text-align: center;
+}
+
+/* Rectangle 6 */
+.sd {
+    display: flex;
+    background-color: red;
+    width: 500px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+
+.ds {
+    display: flex;
+    background-color: red;
+    width: 500px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+
+.ssd {
+    display: flex;
+    color: white;
+    gap: 100px;
+    margin: auto;
+}
